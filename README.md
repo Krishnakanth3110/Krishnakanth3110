@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-Data Engineer with 3+ years building cloud-scale data pipelines, warehouses, and analytics platforms across **Snowflake, Databricks, AWS, and Azure**. I turn large, messy datasets into reliable pipelines and self-service BI — from real-time streaming analytics processing 1M+ daily transactions to medallion-architecture platforms unifying ERP, IoT, and logistics data across 50+ global suppliers.
+Data Engineer with 7 years building cloud-scale data pipelines, warehouses, and analytics platforms across **Snowflake, Databricks, AWS, and Azure**. I turn large, messy datasets into reliable pipelines and self-service BI — from real-time streaming analytics processing 1M+ daily transactions to medallion-architecture platforms unifying ERP, IoT, and logistics data across 50+ global suppliers.
 
 - 🔭 Currently building data pipelines & Power BI dashboards as a **Data Analyst Engineer @ Walmart**
 - 🎓 4.0 GPA M.S. Computer Science, University of Alabama at Birmingham
