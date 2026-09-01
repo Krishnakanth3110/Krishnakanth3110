@@ -61,6 +61,103 @@ Data Engineer with 8 years building cloud-scale data pipelines, warehouses, and 
 
 </div>
 
+### 💡 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛒 E-Commerce Analytics — Databricks Lakehouse
+
+End-to-end **Medallion (Bronze→Silver→Gold)** pipeline on Databricks with Unity Catalog, PySpark & Delta Lake — modelled into a star schema over **~300K customers**, explored via Databricks Genie (NL) and an AI-BI dashboard.
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unity_Catalog-1B3A57?style=flat-square"/>
+
+<a href="https://github.com/Krishnakanth3110/databricks-ecommerce-analytics"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏨 Hotel Booking Analytics — Snowflake + Streamlit
+
+Snowflake **Medallion** pipeline feeding an interactive **Streamlit** dashboard for booking trends, revenue performance, room utilisation and operational KPIs.
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+
+<a href="https://github.com/Krishnakanth3110/Hotel-Booking-Analytics-Dashboard-using-Snowflake-Streamlit"><img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚚 Supply Chain Visibility & Analytics Platform
+
+Real-time shipment tracking, supplier-reliability analytics and predictive inventory across **50+ supplier networks** for a global turbine manufacturer.
+
+<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Iceberg-0EA5E9?style=flat-square&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<a href="https://github.com/Krishnakanth3110/Supply-Chain-Visibility-Analytics-Platform"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏪 Real-Time POS Analytics Platform
+
+Event-driven pipeline that cut reporting latency from **6 hours to under 5 minutes** for **500+ retail stores** using AWS, Snowflake and QuickSight.
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<a href="https://github.com/Krishnakanth3110/Real-Time-POS-Analytics-Platform-using-Snowflake"><img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👥 Customer 360° Analytics Platform
+
+Unified customer profile combining **RDS MySQL, DynamoDB & S3** via AWS Glue + PySpark — served through Athena and Power BI with churn prediction, orchestrated by Airflow and provisioned with Terraform.
+
+<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+
+<a href="https://github.com/Krishnakanth3110/customer-360-analytics-platform"><img src="https://img.shields.io/badge/View_Project-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔍 More on GitHub
+
+Browse the full set of repositories, notebooks and data-engineering experiments.
+
+<img src="https://img.shields.io/badge/Data_Engineering-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analytics-A855F7?style=flat-square"/>
+
+<a href="https://github.com/Krishnakanth3110?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
