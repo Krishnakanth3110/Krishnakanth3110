@@ -61,10 +61,6 @@ Data Engineer with 8 years building cloud-scale data pipelines, warehouses, and 
 
 </div>
 
-### 📌 Featured Projects
-
-
-
 ### 📊 GitHub Stats
 
 <div align="center">
