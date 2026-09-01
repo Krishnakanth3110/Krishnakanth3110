@@ -4,18 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Data+Engineer;Cloud+Analytics+Specialist;Snowflake+%26+Databricks+Expert;AWS+%C2%B7+Azure+%C2%B7+Multi-Cloud+Pipelines" />
 
-<a href="https://krishnakanth3110.github.io/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
 <a href="https://www.linkedin.com/in/krishnakanth031"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:krishnakanthreddy031@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:skrishnareddy3110@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Krishnakanth3110&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ### 🚀 About Me
 
-Data Engineer with 7 years building cloud-scale data pipelines, warehouses, and analytics platforms across **Snowflake, Databricks, AWS, and Azure**. I turn large, messy datasets into reliable pipelines and self-service BI — from real-time streaming analytics processing 1M+ daily transactions to medallion-architecture platforms unifying ERP, IoT, and logistics data across 50+ global suppliers.
+Data Engineer with 8 years building cloud-scale data pipelines, warehouses, and analytics platforms across **Snowflake, Databricks, AWS, and Azure**. I turn large, messy datasets into reliable pipelines and self-service BI — from real-time streaming analytics processing 1M+ daily transactions to medallion-architecture platforms unifying ERP, IoT, and logistics data across 50+ global suppliers.
 
-- 🔭 Currently building data pipelines & Power BI dashboards as a **Data Analyst Engineer @ Walmart**
+- 🔭 Currently building data pipelines & Power BI dashboards as a **Senior AI Data Engineer @ Walmart**
 - 🎓 4.0 GPA M.S. Computer Science, University of Alabama at Birmingham
 - 🏆 AWS Solutions Architect · Databricks Data Engineer · SnowPro Core · Azure AI & Developer Associate
 - 💬 Ask me about Snowflake, Databricks, AWS Glue, or Power BI
