@@ -63,14 +63,7 @@ Data Engineer with 8 years building cloud-scale data pipelines, warehouses, and 
 
 ### 📌 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/Krishnakanth3110/Real-Time-POS-Analytics-Platform-using-Snowflake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnakanth3110&repo=Real-Time-POS-Analytics-Platform-using-Snowflake&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Krishnakanth3110/Supply-Chain-Visibility-Analytics-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnakanth3110&repo=Supply-Chain-Visibility-Analytics-Platform&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Krishnakanth3110/customer-360-analytics-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnakanth3110&repo=customer-360-analytics-platform&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Krishnakanth3110/Hotel-Booking-Analytics-Dashboard-using-Snowflake-Streamlit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnakanth3110&repo=Hotel-Booking-Analytics-Dashboard-using-Snowflake-Streamlit&theme=tokyonight&hide_border=true" width="48%"/></a>
-
-</div>
 
 ### 📊 GitHub Stats
 
